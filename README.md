@@ -1,2 +1,2 @@
 # Quatumult-Adblock
-+Adblock cho Quatumult
+Adblock cho Quatumult
